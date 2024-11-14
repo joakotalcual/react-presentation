@@ -1,0 +1,29 @@
+/* src/components/EstiloDinámico.css */
+.estilo-container {
+    text-align: center;
+    padding: 50px;
+    border-radius: 10px;
+    transition: background-color 0.5s ease;
+  }
+  
+  .estilo-title {
+    color: white;
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  .btn-cambiar-color {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 25px;
+    font-size: 1.2rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn-cambiar-color:hover {
+    background-color: #45a049;
+  }
+  
